@@ -1,6 +1,6 @@
 ## Antes de começar 
 
-O javascript possui uma versão recente chamada ES6 que é recomendável aprender depois de aprender o básico, se não sabe o básico foque em criar pequenos projetos como uma calculadora, um servidor básico, um todo-list. O node.js roda Javascript e permite você construir aplicações (back-end), é interessante saber o que é o NPM, pelo menos um framework para construção de servidores, como o Express.js, e também é importante saber sobre os módulos dele como file system (fs) para arquivos, módulo de criptografia, buffer, etc. 
+Algumas considerações: o Javascript possui uma versão recente chamada ES6 que é recomendável aprender depois de aprender o básico, se você ainda não sabe o básico é legal criar pequenos projetos como uma calculadora, um servidor básico, um todo-list. O Node.js roda Javascript e permite você construir aplicações (back-end), é interessante saber o que é o NPM, pelo menos um framework para construção de servidores, como o Express.js, e também é importante saber sobre os módulos do Node.js como file system (fs) para arquivos, módulo de criptografia, buffer, etc. 
 
 ## Materiais sobre Javascript 
 ## Sites
