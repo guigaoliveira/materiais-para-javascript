@@ -9,6 +9,10 @@ Algumas considerações: o Javascript possui uma versão recente chamada ES6 que
 
 Os melhores cursos online para aprender Javascript.
 
+* https://www.udemy.com/curso-completo-do-desenvolvedor-nodejs/
+
+Curso Completo do Desenvolvedor NodeJS e MongoDB (português e pago). 
+
 * https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 Esse site tem muita coisa sobre o Javascript e é mantido pela Mozilla, mas você já tem que ter uma noção do que quer para procurar, geralmente aparece quando você quer saber alguma função que esqueceu,esse site é de confiança (Em inglês/português).
@@ -23,11 +27,11 @@ Um bom tutorial introdutório ao ES6 (versão recente) do Javascript.
 
 * http://es6-features.org
 
-Esse site tem todas as novas funcionalidades do Javascript (Em inglês).
+Esse site tem todas as novas funcionalidades do Javascript (inglês).
 
 * https://github.com/lukehoban/es6features
 
-Resumão sobre o ES6 muito bem explicado (Em inglês).
+Resumão sobre o ES6 muito bem explicado (inglês).
 
 * https://nodejs.org/
 
@@ -44,7 +48,7 @@ Instalação do Node.js no Ubuntu.
 
 * https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs
 
-Bom material sobre Express.js/Node.js (Em inglês/português).
+Bom material sobre Express.js/Node.js (inglês/português).
 
 * https://braziljs.org/blog/alguns-novos-recursos-es7-es8
 
