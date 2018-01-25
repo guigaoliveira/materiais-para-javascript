@@ -106,6 +106,9 @@ Curso Javascript básico free (inglês).
 * https://github.com/sorrycc/awesome-javascript
 * https://github.com/sindresorhus/awesome-nodejs
 
+* https://github.com/wearehive/project-guidelines
+Um conjunto de boas práticas para desenvolvedores Javascript. 
+
 Links legais sobre Javascript / Node.js. 
 
 * https://braziljs.org
