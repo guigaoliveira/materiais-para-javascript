@@ -118,6 +118,10 @@ Links legais sobre Javascript / Node.js.
 
 Blogs que eu gosto.
 
+https://eloquentjavascript.net/3rd_edition/
+
+Eloquent Javascript Book (segunda versão traduzida).
+
 ## Para contribuir 
 
 Olá, você viu um link legal? Ajuda iniciantes a desenvolver nessa linda linguagem? Quer contribuir para esse repositório? Pode pull request, eu avalio e tudo certo. =) 
