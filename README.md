@@ -99,6 +99,9 @@ Blogs interessantes:
 Eloquent Javascript Book (segunda versão traduzida):
 * https://eloquentjavascript.net/3rd_edition/
 
+W3School
+ * https://www.w3schools.com/js/
+ 
 ## Para contribuir 
 
 Olá, você viu um link legal? Ajuda iniciantes a desenvolver nessa linda linguagem? Quer contribuir para esse repositório? Pode pull request, eu avalio e tudo certo. =) 
