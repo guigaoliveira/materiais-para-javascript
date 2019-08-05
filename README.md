@@ -1,7 +1,4 @@
-## Introdução
-Esse repositório serve para ajudar iniciantes na linguagem de programação Javascript e na "plataforma" Node.js. 
-Algumas dicas: O Javascript possui uma versão recente chamada ES6 que é recomendável aprender depois de aprender o básico, se você ainda não sabe o básico é legal criar pequenos projetos como uma calculadora, um servidor básico, um lista de afazeres. O Node.js roda Javascript e permite você construir aplicações no back-end e para lidar com o node é interessante saber o que é o NPM (gerenciador de pacotes). Para criar aplicações básicas, é legal saber pelo menos um framework para construção de servidores, como o Express.js, e também é importante saber sobre os módulos do Node.js como gerenciamento para arquivos (fs), módulo de criptografia (crypto), módulo para lidar com buffers, etc. 
-E bom...aqui tem materiais / tutoriais que podem te ajudar. 
+Esse repositório serve para ajudar iniciantes na linguagem de programação Javascript e em [Node.js](https://nodejs.org/en/). 
 
 ## Materiais sobre Javascript 
 
