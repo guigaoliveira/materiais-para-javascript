@@ -15,4 +15,4 @@ Site com cursos (gratuitos e pagos) desenvolvidos pelos profissionais do Core Te
 * https://vueschool.io/
 
 Extensão do chrome que facilita bastante o desenvolvimento:
-https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR
+* https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR
