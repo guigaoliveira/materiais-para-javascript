@@ -84,4 +84,4 @@ W3School
  
 ## Para contribuir 
 
-Olá, você viu um link legal? Ajuda iniciantes a desenvolver nessa linda linguagem? Quer contribuir para esse repositório? Pode pull request, eu avalio e tudo certo. =) 
+Então, viu um link legal? Ajuda pessoas a desenvolver com essa linda linguagem? Quer contribuir para esse repositório? Dar um fork, adiciona as alterações, envia um pull request, avaliamos e tudo certo =).  
