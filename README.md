@@ -1,6 +1,6 @@
-Esse repositório serve para ajudar iniciantes na linguagem de programação Javascript
+# Materiais para Javascript 
 
-# Materiais sobre Javascript 
+Esse repositório tem como objetivo para ajudar desenvolvedores com materiais sobre Javascript e o ecossistema da linguagem tanto no front-end quanto no back-end.
 
 ## Tecnologias específicas:
 * [React](./react.md)
