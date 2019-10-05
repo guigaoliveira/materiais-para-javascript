@@ -1,12 +1,15 @@
-Esse repositório serve para ajudar iniciantes na linguagem de programação Javascript e em [Node.js](https://nodejs.org/en/). 
+Esse repositório serve para ajudar iniciantes na linguagem de programação Javascript
 
-## Materiais sobre Javascript 
+# Materiais sobre Javascript 
+
+## Tecnologias específicas:
+* [React](./react.md)
+* [Node](./node.md)
+
+## Links:
 
 Os melhores cursos online para aprender Javascript:
 * https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/
-
-Curso Completo do Desenvolvedor NodeJS e MongoDB (português e pago):
-* https://www.udemy.com/curso-completo-do-desenvolvedor-nodejs/
 
 Tem muita coisa sobre o Javascript e é mantido pela Mozilla, mas você já tem que ter uma noção do que quer para procurar, geralmente aparece quando você quer saber alguma função que esqueceu (inglês/português):
 * https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
@@ -23,31 +26,12 @@ Esse site tem todas as novas funcionalidades do Javascript (inglês):
 Resumão sobre o ES6 muito bem explicado (inglês):
 * https://github.com/lukehoban/es6features
 
- Site do Node:
-* https://nodejs.org/
-
 O que é o Node.js e NPM:
 * http://nodebr.com/o-que-e-a-npm-do-nodejs/
 * https://pt.stackoverflow.com/questions/157034/o-que-%C3%A9-o-npm-e-o-node
 
-Instalação do Node.js no Ubuntu:
-https://www.digitalocean.com/community/tutorials/como-instalar-o-node-js-no-ubuntu-16-04-pt
-
-Bom material sobre Express.js/Node.js (inglês/português):
-* https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs
-
 Alguns recursos do ES7/ES8 (versões mais novas) do Javascript:
 * https://braziljs.org/blog/alguns-novos-recursos-es7-es8
-
-Tem bastante material (Guia) sobre o Express.js (server framework do Node.js) (Em inglês/português):
-* http://expressjs.com/pt-br/
-* http://expressjs.com/en/starter/installing.html
-
-Alguns (melhores) cursos / materiais sobre Node.js (inglês):
-* https://codeburst.io/node-js-best-of-2017-6f81f4ccfea
-
-Bom tutorial de ínicio com Node.js (inglês):
-* https://medium.com/@LindaHaviv/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1
 
 Funcionalidades do ES6 (inglês):
 * https://hackernoon.com/es6-for-beginners-f98120b57414
@@ -68,10 +52,9 @@ Sobre "Symbols, Iterators, Generators, Async/Await, e Async Iterators" (inglês)
 Um pouco sobre como funciona o gerenciamento de memória no Javascript (inglês):
 * https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
 
-Sobre clean-code / boas práticas no Javascript / Node.js (inglês):
+Sobre clean-code / boas práticas no Javascript (inglês):
 * https://github.com/ryanmcdermott/clean-code-javascript
 * https://github.com/airbnb/javascript
-* https://github.com/i0natan/nodebestpractices
 
 Uma coleção de coisas sobre o Javascript (inglês):
 * http://jstherightway.org/
@@ -79,9 +62,8 @@ Uma coleção de coisas sobre o Javascript (inglês):
 Curso Javascript básico free (inglês):
 * https://br.udacity.com/course/javascript-basics--ud804
 
-Um conjunto de boas práticas para desenvolvedores Javascript:
+Compilado de bibliotecas e boas práticas (inglês):
 * https://github.com/sorrycc/awesome-javascript
-* https://github.com/sindresorhus/awesome-nodejs
 
 Links legais sobre Javascript / Node.js:
 * https://github.com/wearehive/project-guidelines
