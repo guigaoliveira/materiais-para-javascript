@@ -14,6 +14,6 @@ Conceitos e vantagens:
 
 - https://blog.rocketseat.com.br/typescript-vantagens-mitos-conceitos/
 
-Guia definitivo TYpeScript (nov/2018)
+Guia definitivo TypeScript (nov/2018)
 
 - https://medium.com/@oieduardorabelo/typescript-o-guia-definitivo-1a63b04259cc
