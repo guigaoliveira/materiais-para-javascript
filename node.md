@@ -9,6 +9,14 @@ Site do Node:
 Instalação do Node.js no Ubuntu:
 https://www.digitalocean.com/community/tutorials/como-instalar-o-node-js-no-ubuntu-16-04-pt
 
+Curso grátis de Node.js para iniciantes (português):
+
+- https://treinamento.nodebr.org/
+
+Curso grátis de criação de APIs com Node.js (português):
+
+- https://balta.io/cursos/criando-apis-com-node
+
 Bom material sobre Express.js/Node.js (inglês/português):
 
 - https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs
