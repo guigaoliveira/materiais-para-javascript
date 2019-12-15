@@ -1,6 +1,6 @@
 # Materiais para Javascript
 
-Esse repositório tem como objetivo para ajudar desenvolvedores com materiais sobre Javascript e o ecossistema da linguagem tanto no front-end quanto no back-end.
+Esse repositório tem como objetivo para ajudar desenvolvedores com materiais para o estudo de Javascript e o ecossistema da linguagem tanto no front-end quanto no back-end.
 
 ## Tecnologias específicas:
 
