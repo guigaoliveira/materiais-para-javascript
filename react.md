@@ -21,3 +21,7 @@ Guia (desatualizado porém muito útil) do ecossistema React:
 Compilado de bibliotecas e boas práticas (inglês):
 
 - https://github.com/enaqx/awesome-react
+
+Blog do Dan Abramov (inglês): 
+
+- https://overreacted.io/ 
