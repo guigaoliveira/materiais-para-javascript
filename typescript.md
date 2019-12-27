@@ -10,6 +10,10 @@ Compilado de bibliotecas e boas práticas (inglês):
 
 - https://github.com/dzharii/awesome-typescript
 
+Compilado de boas práticas (inglês):
+
+- https://github.com/labs42io/clean-code-typescript
+
 Conceitos e vantagens:
 
 - https://blog.rocketseat.com.br/typescript-vantagens-mitos-conceitos/
