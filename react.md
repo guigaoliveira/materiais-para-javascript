@@ -25,3 +25,7 @@ Compilado de bibliotecas e boas práticas (inglês):
 Blog do Dan Abramov (inglês): 
 
 - https://overreacted.io/ 
+
+React+TypeScript Cheatsheets (inglês):
+
+- https://github.com/typescript-cheatsheets/react-typescript-cheatsheet
