@@ -21,3 +21,7 @@ Conceitos e vantagens:
 Guia definitivo TypeScript (nov/2018)
 
 - https://medium.com/@oieduardorabelo/typescript-o-guia-definitivo-1a63b04259cc
+
+Livro TypeScript Deep Dive (inglês) 
+
+- https://github.com/basarat/typescript-book
