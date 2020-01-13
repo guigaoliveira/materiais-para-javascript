@@ -15,7 +15,7 @@ Os melhores cursos online para aprender Javascript:
 
 - https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/
 
-Tem muita coisa sobre o Javascript e é mantido pela Mozilla, mas você já tem que ter uma noção do que quer para procurar, geralmente aparece quando você quer saber alguma função que esqueceu (inglês/português):
+Tem muita coisa sobre o Javascript e é mantido pela Mozilla (inglês/português):
 
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
@@ -50,8 +50,10 @@ Funcionalidades do ES6 (inglês):
 - https://hackernoon.com/es6-for-beginners-part-2-ee8a77f7f4c7
 - https://hackernoon.com/es6-for-beginners-77bf34bec2d1
 
-Alguns fundamentos para aprender sobre a linguagem (não vejo como obrigatório, mas alguns são necessários):
-https://medium.com/@ftonato/33-fundamentos-que-todo-desenvolvedor-javascript-deveria-saber-39ad3bb9c71a
+Alguns fundamentos para aprender sobre a linguagem:
+
+- https://medium.com/@ftonato/33-fundamentos-que-todo-desenvolvedor-javascript-deveria-saber-39ad3bb9c71a
+
 Um pouco sobre async/await:
 
 - https://medium.com/@oieduardorabelo/padr%C3%B5es-de-design-com-async-await-em-node-js-fccfbe24572e
