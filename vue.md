@@ -1,6 +1,6 @@
 # Materiais sobre Vue.js
 
-## Links:
+## Links
 
 Documentação oficial da ferramenta:
 
