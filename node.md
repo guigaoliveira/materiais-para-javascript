@@ -1,6 +1,6 @@
 # Materiais sobre Node
 
-## Links:
+## Links
 
 Site do Node:
 
