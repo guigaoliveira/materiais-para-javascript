@@ -23,11 +23,11 @@ Javascript básico (inglês):
 
 - http://2ality.com/2013/06/basic-javascript.html
 
-Um bom tutorial introdutório ao ES6 (versão recente) do Javascript:
+Um bom tutorial introdutório sobre o ECMAScript 6 (especificação que guia o JS):
 
 - https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f
 
-Esse site tem todas as novas funcionalidades do Javascript (inglês):
+Esse site tem todas as funcionalidades do ES6 (inglês):
 
 - http://es6-features.org
 
