@@ -1,6 +1,6 @@
 # Materiais sobre React
 
-## Links:
+## Links
 
 Material oficial da ferramente explicando seus principais conceitos:
 
