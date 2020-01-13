@@ -89,6 +89,10 @@ Links legais sobre Javascript / Node.js:
 
 - https://github.com/wearehive/project-guidelines
 
+Melhores práticas para testes com JS: 
+
+- https://github.com/goldbergyoni/javascript-testing-best-practices
+
 Blogs interessantes:
 
 - https://braziljs.org
