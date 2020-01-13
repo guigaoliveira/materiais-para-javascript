@@ -2,14 +2,14 @@
 
 Esse repositório tem como objetivo para ajudar desenvolvedores com materiais para o estudo de Javascript e o ecossistema da linguagem tanto no front-end quanto no back-end.
 
-## Tecnologias específicas:
+## Tecnologias específicas
 
 - [React](./react.md)
 - [Node](./node.md)
 - [Vue](./vue.md)
 - [TypeScript](./typescript.md)
 
-## Links:
+## Links
 
 Os melhores cursos online para aprender Javascript:
 
