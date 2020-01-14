@@ -95,6 +95,10 @@ Melhores práticas para testes com JS:
 
 - https://github.com/goldbergyoni/javascript-testing-best-practices
 
+Coleção de livros para estudar JS: 
+
+- https://github.com/javascript-society/javascript-path
+
 Blogs interessantes:
 
 - https://braziljs.org
