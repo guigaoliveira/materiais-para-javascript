@@ -25,3 +25,11 @@ Guia definitivo TypeScript (nov/2018)
 Livro TypeScript Deep Dive (inglês) 
 
 - https://github.com/basarat/typescript-book
+
+Generics para pessoas que desistiram de entender Generics: 
+
+- https://medium.com/@oieduardorabelo/typescript-generics-para-pessoas-que-desistiram-de-entender-generics-887a6ea1a140
+
+Imutabilidade em tempo de compilação em TypeScript:
+
+- https://medium.com/@oieduardorabelo/typescript-imutabilidade-em-tempo-de-compila%C3%A7%C3%A3o-em-typescript-8067fd9751f5
