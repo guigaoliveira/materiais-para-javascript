@@ -15,6 +15,10 @@ Os melhores cursos online para aprender Javascript:
 
 - https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/
 
+Curso de Javascript básico + introdução ao ES6 (português)
+
+- https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+
 Tem muita coisa sobre o Javascript e é mantido pela Mozilla (inglês/português):
 
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
