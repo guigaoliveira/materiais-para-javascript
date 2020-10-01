@@ -6,6 +6,14 @@ Material oficial da ferramente explicando seus principais conceitos:
 
 - http://www.typescriptlang.org/docs/home.html
 
+Artigo explicando os tipos do typescript
+
+- https://www.freecodecamp.org/news/a-mental-model-to-think-in-typescript-2/
+
+Artigo explicando como adicionar typescript em um projeto javascript
+
+- https://www.freecodecamp.org/news/how-to-add-typescript-to-a-javascript-project/
+
 Compilado de bibliotecas e boas práticas (inglês):
 
 - https://github.com/dzharii/awesome-typescript
