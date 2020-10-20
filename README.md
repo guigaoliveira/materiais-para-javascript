@@ -11,117 +11,73 @@ Esse repositório tem como objetivo para ajudar desenvolvedores com materiais pa
 
 ## Links
 
-Os melhores cursos online para aprender Javascript:
+- [Os melhores cursos online para aprender Javascript](https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/)
 
-- https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/
+- [Curso de Javascript básico + introdução ao ES6 (português)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
-Curso de Javascript básico + introdução ao ES6 (português)
+- [Curso de Javascript gratuito do FreeCodeCamp (inglês)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-- https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+- [Tem muita coisa sobre o Javascript e é mantido pela Mozilla (inglês/português)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-Curso de Javascript gratuito do FreeCodeCamp (inglês)
+- [Javascript básico (inglês)](http://2ality.com/2013/06/basic-javascript.html)
 
-- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+- [Um bom tutorial introdutório sobre o ECMAScript 6 (especificação que guia o JS)](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
 
-Tem muita coisa sobre o Javascript e é mantido pela Mozilla (inglês/português):
+- [Esse site tem todas as funcionalidades do ES6 (inglês)](http://es6-features.org)
 
-- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+- [Resumão sobre o ES6 muito bem explicado (inglês)](https://github.com/lukehoban/es6features)
 
-Javascript básico (inglês):
+- O que é o Node.js e NPM:
 
-- http://2ality.com/2013/06/basic-javascript.html
+  - [Explicação do nodebr](http://nodebr.com/o-que-e-a-npm-do-nodejs/)
+  - [Explicação no stackoverflow](https://pt.stackoverflow.com/questions/157034/o-que-%C3%A9-o-npm-e-o-node)
 
-Um bom tutorial introdutório sobre o ECMAScript 6 (especificação que guia o JS):
+- [Alguns recursos do ES7/ES8 (versões mais novas) do Javascript](https://braziljs.org/blog/alguns-novos-recursos-es7-es8)
 
-- https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f
+- Funcionalidades do ES6 para iniciantes (inglês):
 
-Esse site tem todas as funcionalidades do ES6 (inglês):
+  - [Parte 1](https://hackernoon.com/es6-for-beginners-f98120b57414)
+  - [Parte 2](https://hackernoon.com/es6-for-beginners-part-2-ee8a77f7f4c7)
+  - [Parte 3](https://hackernoon.com/es6-for-beginners-77bf34bec2d1)
 
-- http://es6-features.org
+- [Alguns fundamentos para aprender sobre a linguagem](https://medium.com/@ftonato/33-fundamentos-que-todo-desenvolvedor-javascript-deveria-saber-39ad3bb9c71a)
 
-Resumão sobre o ES6 muito bem explicado (inglês):
+- [Um pouco sobre async/await](https://medium.com/@oieduardorabelo/padr%C3%B5es-de-design-com-async-await-em-node-js-fccfbe24572e)
 
-- https://github.com/lukehoban/es6features
+- [Sobre padrões e antipadrões de Promisses no Javascript, é bom saber pra entender como funcionam, mas também podem ser "substituídas" pelo async/await (inglês)](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
 
-O que é o Node.js e NPM:
+- [Sobre "Symbols, Iterators, Generators, Async/Await, e Async Iterators" (inglês)](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
 
-- http://nodebr.com/o-que-e-a-npm-do-nodejs/
-- https://pt.stackoverflow.com/questions/157034/o-que-%C3%A9-o-npm-e-o-node
+- [Um pouco sobre como funciona o gerenciamento de memória no Javascript (inglês)](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 
-Alguns recursos do ES7/ES8 (versões mais novas) do Javascript:
+- Sobre clean-code / boas práticas no Javascript (inglês):
 
-- https://braziljs.org/blog/alguns-novos-recursos-es7-es8
+  - [Clean code javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [Padronização do Airbnb](https://github.com/airbnb/javascript)
 
-Funcionalidades do ES6 (inglês):
+- [Uma coleção de coisas sobre o Javascript (inglês)](http://jstherightway.org/)
 
-- https://hackernoon.com/es6-for-beginners-f98120b57414
-- https://hackernoon.com/es6-for-beginners-part-2-ee8a77f7f4c7
-- https://hackernoon.com/es6-for-beginners-77bf34bec2d1
+- [Curso Javascript básico free (inglês)](https://br.udacity.com/course/javascript-basics--ud804)
 
-Alguns fundamentos para aprender sobre a linguagem:
+- [Compilado de bibliotecas e boas práticas (inglês)](https://github.com/sorrycc/awesome-javascript)
 
-- https://medium.com/@ftonato/33-fundamentos-que-todo-desenvolvedor-javascript-deveria-saber-39ad3bb9c71a
+- [Links legais sobre Javascript / Node.js](https://github.com/wearehive/project-guidelines)
 
-Um pouco sobre async/await:
+- [Melhores práticas para testes com JS](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
-- https://medium.com/@oieduardorabelo/padr%C3%B5es-de-design-com-async-await-em-node-js-fccfbe24572e
+- [Coleção de livros para estudar JS](https://github.com/javascript-society/javascript-path)
 
-Sobre padrões e antipadrões de Promisses no Javascript, é bom saber pra entender como funcionam, mas também podem ser "substituídas" pelo async/await (inglês):
+- Blogs interessantes:
 
-- https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918
+  - [BrazilJS](https://braziljs.org)
+  - [Code Burst](https://codeburst.io)
+  - [Hackernoon](https://hackernoon.com)
+  - [2ality](http://2ality.com/index.html)
 
-Sobre "Symbols, Iterators, Generators, Async/Await, e Async Iterators" (inglês):
+- [Eloquent Javascript Book (segunda versão traduzida)](https://eloquentjavascript.net/3rd_edition/)
 
-- https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
-
-Um pouco sobre como funciona o gerenciamento de memória no Javascript (inglês):
-
-- https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
-
-Sobre clean-code / boas práticas no Javascript (inglês):
-
-- https://github.com/ryanmcdermott/clean-code-javascript
-- https://github.com/airbnb/javascript
-
-Uma coleção de coisas sobre o Javascript (inglês):
-
-- http://jstherightway.org/
-
-Curso Javascript básico free (inglês):
-
-- https://br.udacity.com/course/javascript-basics--ud804
-
-Compilado de bibliotecas e boas práticas (inglês):
-
-- https://github.com/sorrycc/awesome-javascript
-
-Links legais sobre Javascript / Node.js:
-
-- https://github.com/wearehive/project-guidelines
-
-Melhores práticas para testes com JS: 
-
-- https://github.com/goldbergyoni/javascript-testing-best-practices
-
-Coleção de livros para estudar JS: 
-
-- https://github.com/javascript-society/javascript-path
-
-Blogs interessantes:
-
-- https://braziljs.org
-- https://codeburst.io
-- https://hackernoon.com
-- http://2ality.com/index.html
-
-Eloquent Javascript Book (segunda versão traduzida):
-
-- https://eloquentjavascript.net/3rd_edition/
-
-W3School
-
-- https://www.w3schools.com/js/
+- [W3School](https://www.w3schools.com/js/)
 
 ## Para contribuir
 
-Então, viu um link legal? Ajuda pessoas a desenvolver com essa linda linguagem? Quer contribuir para esse repositório? Dar um fork, adiciona as alterações, envia um pull request, avaliamos e tudo certo =).
+Então, viu um link legal? Ajuda pessoas a desenvolver com essa linda linguagem? Quer contribuir para esse repositório? Dar um fork, adiciona as alterações com o padrão utilizado, envia um pull request, avaliamos e tudo certo =).
