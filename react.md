@@ -15,3 +15,5 @@
 - [Blog do Dan Abramov (inglês)](https://overreacted.io/)
 
 - [React+TypeScript Cheatsheets (inglês)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+
+- [Dicas de projetos para treino (inglês)](https://www.freecodecamp.org/news/5-react-projects-you-need-in-your-portfolio/) 
