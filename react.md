@@ -17,3 +17,9 @@
 - [React+TypeScript Cheatsheets (inglês)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 - [Dicas de projetos para treino (inglês)](https://www.freecodecamp.org/news/5-react-projects-you-need-in-your-portfolio/) 
+
+## Bibliotecas interessantes
+
+- [**react-router-dom**: Auxilia a criação de rotas para a aplicação (inglês)](https://reactrouter.com/web/guides/quick-start)
+- [**react-hook-form**: Formulários eficientes, flexíveis e extensíveis com validação fácil de usar (inglês)](https://blog.logrocket.com/the-complete-guide-to-react-hook-form/)
+- [**material-ui**: Framework ui com dezenas de componentes](https://mui.com/pt/)
